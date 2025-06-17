@@ -24,7 +24,7 @@
 
 ---
 ### Diagrama de Classes UML
-![Diagrama UML - Projeto](./assets/UML.png)
+![Diagrama UML - Projeto](./assets/UML.jpg)
 
 ## Funcionalidades
 
